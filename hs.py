@@ -10,5 +10,5 @@ def fil():
         myfile.write("my name is heet \n")
     myfile.close()
 
-if __name__=='main':
-    fil()        
+if __name__=='__main__':
+    fil()  
