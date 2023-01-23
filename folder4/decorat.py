@@ -11,6 +11,6 @@ def upper(t):
     print(t)
     return f1
 #line
-print("helo world")
+print("hello world")
 text=upper(text)
 print(text("hello"))
