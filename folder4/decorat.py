@@ -10,10 +10,6 @@ def upper(t):
 
     print(t)
     return f1
-
-
-
-
-
+#line
 text=upper(text)
 print(text("hello"))
