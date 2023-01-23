@@ -17,4 +17,3 @@ def upper(t):
 
 text=upper(text)
 print(text("hello"))
-
